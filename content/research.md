@@ -6,11 +6,6 @@ menu: 'main'
 
 Our research themes are
 
-* Physics-aware interpretable Machine Learning Models for climate processes 
+* Sea Ice
 
-* Learning physics-aware parameterizations from high-resolution models and observational data 
-			
-* Learning structural uncertainty though existing data assimilation systems
-
-* Improving existing climate models and climate projections with machine learning parameterizations
-
+* blabla blabla
