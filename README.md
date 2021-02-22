@@ -1,11 +1,10 @@
-# m2lines Website Source
+# Test for a SASIP Website Source
 
-[![github pages](https://github.com/m2lines/website-source/workflows/github%20pages/badge.svg?branch=master)](https://github.com/m2lines/website-source/actions)
 
-This repo contains the source code for the m2lines website.
+This repo contains the source code for the SASIP website.
 The site uses the [Hugo](https://gohugo.io/) framework.
 The source files are written in markdown.
-A [GitHub workflow](https://github.com/m2lines/m2lines.github.io/blob/master/.github/workflows/build-and-deploy.yaml) is configured to automatically build and deploy the website to <https://m2lines.github.io/> whenever the `master` branch of this repo is updated.
+A [GitHub workflow](https://github.com/m2lines/m2lines.github.io/blob/master/.github/workflows/build-and-deploy.yaml) is configured to automatically build and deploy the website to <https://test-saip.github.io/> whenever the `master` branch of this repo is updated.
 
 ## Instructions for updating this site
 
